@@ -1,6 +1,6 @@
 # tevo_tornado_tmc_2130_skr_1.4
 
-Marlin config for the BTT SKR 1.4 board using the TMC 2130 stepper motor drivers in SPI mode. Note: This is a 32bit board, AFAIK it can therfore not be flashed using Arduino.
+Marlin config for the BTT SKR 1.4 board using the TMC 2130 stepper motor drivers in SPI mode. Note: This is a 32bit board, AFAIK it can therfore not be flashed using the Arduino IDE.
 
 # Requirements
 

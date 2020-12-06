@@ -13,7 +13,9 @@ Marlin config for the BTT SKR 1.4 board using the TMC 2130 stepper motor drivers
 
 * Download [Marlin](https://marlinfw.org/meta/download/) (the config file is build with 2.0.7.2)
 * Extract Marlin 
-* Replace the `Configuration.h` and `Configuration_adv.h` at the extracted `Marlin-2.0.x\Marlin` dir
+* Replace the `Configuration.h` and `Configuration_adv.h` at the extracted `Marlin-2.0.x/Marlin` dir
 * In the PlatformIO Home view -> Open Project -> `Marlin-2.0.x` root folder
 
+# Further Information
 
+* [Tevo Tornado SKR 1.4 TMC 2209 & Ugrades (Silent Tornado)](https://www.youtube.com/watch?v=d7VG0SZ4aps) [Thingiverse with Firmware for the TMC 2209](https://www.thingiverse.com/thing:4544391)

@@ -18,4 +18,4 @@ Marlin config for the BTT SKR 1.4 board using the TMC 2130 stepper motor drivers
 
 # Further Information
 
-* [Tevo Tornado SKR 1.4 TMC 2209 & Ugrades (Silent Tornado)](https://www.youtube.com/watch?v=d7VG0SZ4aps) [Thingiverse with Firmware for the TMC 2209](https://www.thingiverse.com/thing:4544391)
+* [Tevo Tornado SKR 1.4 TMC 2209 & Ugrades (Silent Tornado)](https://www.youtube.com/watch?v=d7VG0SZ4aps) / [Thingiverse with Firmware for the TMC 2209](https://www.thingiverse.com/thing:4544391)
